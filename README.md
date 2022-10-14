@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @tass1811
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning programming
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me "soltanitasnim24@gmail.com
+- 📫 How to reach me "soltanitasnim24@gmail.com"
 
 <!---
 Tass1811/Tass1811 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
